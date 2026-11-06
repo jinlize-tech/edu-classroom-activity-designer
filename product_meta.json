@@ -1,0 +1,24 @@
+{
+  "number": 31,
+  "product_id": "JLZ-EDU-SK-025",
+  "chinese_name": "课堂活动设计",
+  "english_name": "Classroom Activity Designer",
+  "repository_name": "edu-classroom-activity-designer",
+  "product_type": "Skill",
+  "category": "03 教学教研中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-classroom-activity-designer-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "教学目标、学生年龄、课堂时长、空间资源、分组方式和活动限制",
+  "main_output": "活动目标、规则、分组、材料、教师指令、时间表和观察指标",
+  "package_entries": [
+    "edu-classroom-activity-designer/SKILL.md",
+    "edu-classroom-activity-designer/references/DOMAIN_GUIDE.md",
+    "edu-classroom-activity-designer/references/EXAMPLES.md",
+    "edu-classroom-activity-designer/templates/OUTPUT_TEMPLATE.md"
+  ]
+}

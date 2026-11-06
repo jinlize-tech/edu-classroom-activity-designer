@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-SK-025",
+  "repository_name": "edu-classroom-activity-designer",
+  "product_type": "Skill",
+  "version": "1.0.0",
+  "package_path": "dist/edu-classroom-activity-designer-v1.0.0.zip",
+  "sha256": "E7B46B99E747841F82336B3FCFF123617BD57FAC19EBA383DC5DEFD7D214DED3",
+  "bytes": 4890,
+  "entries": [
+    "edu-classroom-activity-designer/SKILL.md",
+    "edu-classroom-activity-designer/references/DOMAIN_GUIDE.md",
+    "edu-classroom-activity-designer/references/EXAMPLES.md",
+    "edu-classroom-activity-designer/templates/OUTPUT_TEMPLATE.md"
+  ],
+  "built_at": "2026-11-06T22:13:36.7070116+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}
